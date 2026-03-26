@@ -1,6 +1,6 @@
 # Wi-Fi in Tanzania 🇹🇿
 
-**Developer:** Victor Mpambije  
+**Developer:** Allan Deus  
 **Tech Stack:** TypeScript, HTML, CSS, JavaScript  
 
 ---
@@ -29,4 +29,4 @@ The goal is to provide a simple and intuitive way for locals and travelers to lo
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Veenbreeze/wi-fi-in-tanzania.git
+   git clone https://github.com/allan818181/Wi-Fi-hotspot.git
